@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @intbusinessanto
 - 👀 I’m interested in Software & Web Development
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on software developing projects
+- 💞️ I’m looking a job where I can collaborate on software developing projects-
 - 📫 How to reach me intbusinessanto@gmail.com +573152030142
 
 <!---
